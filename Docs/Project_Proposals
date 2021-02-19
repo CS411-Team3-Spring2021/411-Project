@@ -1,4 +1,4 @@
-Top 3 Ideas: 
+Top 2 Ideas: 
 
 1 (Preferred) -> IBM Watson Sentiment Analysis API x Netflix API
 				A web application that gives users recommendations on new TV shows or movies to watch on Netflix based on their mood. The app will allow the user to type what’s on their mind, run IBM Watson’s Sentiment Analysis API on their text, and output suggested TV shows and movies that fit their mood. This would be a useful app for people who want to watch something new on Netflix but don’t exactly know what they’re in the mood for, as the API will take care of figuring out their mood for them. 
