@@ -1,10 +1,7 @@
 Top 3 Ideas: 
 
-1 -> IBM Watson Sentiment Analysis API x Netflix API
+1 (Preferred) -> IBM Watson Sentiment Analysis API x Netflix API
 				A web application that gives users recommendations on new TV shows or movies to watch on Netflix based on their mood. The app will allow the user to type what’s on their mind, run IBM Watson’s Sentiment Analysis API on their text, and output suggested TV shows and movies that fit their mood. This would be a useful app for people who want to watch something new on Netflix but don’t exactly know what they’re in the mood for, as the API will take care of figuring out their mood for them. 
 		
 2 -> Tinder API x Eventbrite API
 				A web application that will use Tinder’s API to gather the interests/hobbies of two individuals who matched and then use the Eventbrite API to suggest a date/activity for them to do together. This would be helpful for users because it makes planning a first date easier and less stressful.
-
-3 -> Spotify API x Ticketmaster API
-				A web application that looks at users’ Spotify playlists using the Spotify API and recommends cheap concert tickets in the area for artists on the playlist using the Ticketmaster API. It can also be extended to “similar artists/artists you may like” which will allow users to expand their music taste. This app would be particularly useful for individuals who are trying to save money but also want to make memories or even find new artists to listen to.
