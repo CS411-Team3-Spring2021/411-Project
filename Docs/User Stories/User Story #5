@@ -1,0 +1,3 @@
+User Story #5: As a logged-in user, I want to be able to log out of account.
+
+Once I am done reviewing old entries or working on today’s entry and receiving my movie recommendations, I want to exit out of my diary. I can choose to go back to the main screen to create a new entry or view other entries or log out, or I can log out directly from the current entry I am on. The top right corner of the screen should have a log-out button, and before logging me out, I should be asked to confirm that I want to leave. I will be taken to the last page of my diary which will say “Enjoy your recommendations!”
