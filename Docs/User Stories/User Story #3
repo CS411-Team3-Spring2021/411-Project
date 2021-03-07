@@ -1,0 +1,7 @@
+User Story #3: As a logged-in user, I want to create a new entry in my diary and get new recommendations. 
+
+Once I am logged in, the diary opens up. On the left page there is a calendar with today’s date highlighted. The right side of the page will have a list with a caption “No entries for today.” I can click on the “+ / add new entry” button on the bottom right corner to add a new entry.
+
+After clicking the new entry button, I will be taken to a new page where I can type my diary entry for the day on the left side. Once I am done writing my entry, I can click on the “Submit/Get Recommendations” button at the bottom of the page which will run the IBM Watson Sentiment Analysis. The IBM Watson API classifies texts into five groups/sentiments: joy, sadness, anger, disgust, and fear. 5 Netflix movie/series recommendations based on the analysis will be displayed on the right side of the diary with a caption that shows me my sentiment. I can then click on any of the recommended movies’ image or name to be redirected to the movie’s Netflix page in a new window that will start playing the movie or TV show, assuming I am already logged into Netflix.
+
+My entry will be automatically saved into the calendar. To go back, I can click on the “Back” button on the bottom left of the screen.
