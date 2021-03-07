@@ -1,0 +1,5 @@
+User Story #1: As a new user, I want to create and set up a new account.
+
+When I open the application, I expect to see an image of a diary cover with an embedded log-in box on the cover where I can enter my Google credentials. Under this box, there will be a button to “create a new account”. When I click on this button, I will be redirected to log in through Google.
+
+Once I am logged in, I will be able to access my profile settings from the top menu bar and update my location settings.
