@@ -1,0 +1,3 @@
+User Story #2: As an existing user, I want to log in to access my account.
+
+When I open the application, I expect to see an image of a diary cover with an embedded log-in box on the cover where I can enter my Google credentials. Upon entering my credentials, the log-in might be unsuccessful if I type in the password to my Google account incorrectly, and this exception will be handled by Google. 
