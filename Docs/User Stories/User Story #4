@@ -1,0 +1,9 @@
+User Story #4: As a logged-in user, I want to access old entries/recommendations in my diary.
+
+Once I am logged in, the diary opens up. On the left page there is a calendar with today’s date highlighted. I can click on any date on the calendar, and then a list of my past entries from that date will appear on the right side of the diary. I can then click on any of the entries on this list and be brought to a new screen with my entry from that date on the left and the recommendations that were given to me for that entry on that date. I can then click on any of the recommended movies’ image or name to be redirected to the movie’s Netflix page in a new window that will start playing the movie or TV show, assuming I am already logged into Netflix.
+
+To go back, I can click on the “Back” button on the bottom left of the screen.
+
+Exception: A movie or TV show recommended is no longer available on Netflix. In this case, our application will display a message under the movie’s image/name stating that the recommended movie or TV show has been taken off of Netflix. 
+
+Exception : A movie or TV show recommended are no longer available in the region of the user. In this case, our application will display a message under the movie’s image/name stating that the recommended movie or TV show is no longer available in the user’s region.
