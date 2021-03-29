@@ -11,7 +11,7 @@ const { IamAuthenticator } = require('ibm-watson/auth');
 const naturalLanguageUnderstanding = new NaturalLanguageUnderstandingV1({
     version: '2020-08-01',
     authenticator: new IamAuthenticator({
-        apikey: 'X-R68qVNYwoRJfhW158a_ZmhrGhqrLmvc7N5hnbqw1Ce'
+        apikey: FETCHCONFIG.fetchOptions.apikey
     }),
     serviceUrl: 'https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/59dcf27e-c7e4-4b16-a7de-15e2d8083d20'
 });
