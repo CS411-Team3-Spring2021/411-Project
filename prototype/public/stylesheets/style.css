@@ -1,0 +1,10 @@
+body {
+  padding: 50px;
+  font: 20px "Courier New", "Lucida Console", monospace;
+  background-color: whitesmoke;
+  text-align: center;
+}
+
+a {
+  color: #00B7FF;
+}
