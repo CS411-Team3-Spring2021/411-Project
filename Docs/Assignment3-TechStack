@@ -1,0 +1,10 @@
+Technology Stack
+
+The two technology stacks our team considered using for this project were: 
+
+1. MEAN Stack (MongoDB, Express.js, AngularJS, and Node.js)
+2. MERN Stack (MongoDB, Express.js, React, and Node.js)
+
+We considered these two tech stacks because they are both popular and easy to use for web development. They both utilize MongoDB as the database, which is preferable for our project because MongoDB is easily scalable horizontally. All the data is stored as JSON files, which does not confine us to creating tables and relations as our data does not need to be structured this way. Both stacks also use the back end web server Node.js, allowing JavaScript to be written on both the front and back end. Node.js works well with Express.js as Express is a framework that runs on top of Node and can handling HTTP requests and responses and routing, which are important capabilities in a web application. 
+
+Ultimately, we chose to work with the MERN Stack (React instead of Angular) for a couple of reasons. The MERN stack uses the programming language Javascript throughout the stack making coding simpler, as opposed to the MEAN stack in which Angular uses Typescript, a superset of Javascript. Additionally, React uses a virtual DOM while Angular uses a real DOM, so using React allows for our application to respond faster to changes and updates. Finally, as all our team members have beginner to intermediate level experience with web development, we chose to work with React simply because of its better documentation that may be easier for us to learn starting off. Overall, since our team members have each had some experience working with the technologies in the MERN stack, we believe it is the better option for our tech stack. 
