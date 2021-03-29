@@ -26,6 +26,7 @@ router.route('/').post((req, res, next) => {
         };
         const output = naturalLanguageUnderstanding.analyze(analyzeParams)
             .then(analysisResults => {
+                console.log(JSON.stringify(analysisResults, null, 2))
                 res.render('ps4', {'entry': req.body.entry,
                     'joy': JSON.stringify(analysisResults.result.emotion.document.emotion.joy),
                     'sadness': JSON.stringify(analysisResults.result.emotion.document.emotion.sadness),
@@ -34,6 +35,7 @@ router.route('/').post((req, res, next) => {
                     'anger': JSON.stringify(analysisResults.result.emotion.document.emotion.anger)});
             })
             .catch(err => {
+                    console.log('error:', err);
                     return err;
                 }
             );
@@ -46,31 +48,5 @@ const doRequest = async value => {
     console.log(cleanReturnValue);
     return cleanReturnValue;
 };
-
-const analyzeParams = {
-    'features': {
-        'emotion': {}
-    },
-    'text': "This is our CS411 project."
-};
-
-naturalLanguageUnderstanding.analyze(analyzeParams)
-    .then(analysisResults => {
-        console.log(JSON.stringify(analysisResults, null, 2));
-    })
-    .catch(err => {
-        console.log('error:', err);
-    });
-
-const output = naturalLanguageUnderstanding.analyze(analyzeParams)
-    .then(analysisResults => {
-        return JSON.stringify(analysisResults, null, 2);
-    })
-    .catch(err => {
-            return err;
-        }
-    );
-
-const something = naturalLanguageUnderstanding.analyze(analyzeParams);
 
 module.exports = router;
