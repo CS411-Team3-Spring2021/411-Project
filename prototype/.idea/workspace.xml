@@ -21,10 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ac25cae7-4589-4673-91e9-4bde4c8a704c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/project.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/project.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/ps4.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/ps4.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +76,7 @@
       <workItem from="1616993263060" duration="856000" />
       <workItem from="1617025273657" duration="637000" />
       <workItem from="1619238763022" duration="6309000" />
-      <workItem from="1619721006503" duration="4015000" />
+      <workItem from="1619721006503" duration="4477000" />
     </task>
     <servers />
   </component>
