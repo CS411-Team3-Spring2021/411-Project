@@ -8,7 +8,7 @@ Team 3:
   5. Sharma, Satyansh
 
 Docs:
-The Docs Folder contains the following iterms:
+This folder contains the following items:
   1. Project Proposal
   2. User Stories
   3. Tech Stack Information
