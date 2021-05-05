@@ -6,3 +6,14 @@ Team 3:
   3. Li, Sophie
   4. Pope, Olivia
   5. Sharma, Satyansh
+
+Docs:
+The Docs Folder contains the following iterms:
+  1. Project Proposal
+  2. User Stories
+  3. Tech Stack Information
+  4. Prototype Demonstration
+  5. Final Report
+
+Prototype:
+This folder contains all our code.
