@@ -1,0 +1,10 @@
+  Our project wanted to provide users a recommendation on new TV shows or movies to watch on Netflix based on their mood. 
+We planned to allow the user to type in how they were feeling and run that through IBM Watson’s Sentiment Analysis API and 
+output suggestions that fit their mood using an unofficial Netflix API. Users could log in to save their recommendations by 
+logging in with Google as third party authentication. We used MongoDB as our database to show results to the user.
+
+  There were some challenges in working on this project, with the main one relating to our second API, the unofficial Netflix API.
+After working on getting the Netflix API to return suggestions on the web application, it one day stopped running with the 
+message that the user was not subscribed to the API, even though we were. Furthermore, when working with the third party 
+authentication, we could get the authentication to work but then the API would stop working, or vice versa. Given the time 
+limitations and some of the setbacks we faced we tried our best to make our project what we envisioned it to be.
