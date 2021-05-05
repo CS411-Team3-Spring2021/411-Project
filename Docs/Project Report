@@ -7,7 +7,7 @@ logging in with Google as third party authentication. We used MongoDB as our dat
 After working on getting the Netflix API to return suggestions on the web application, it one day stopped running with the 
 message that the user was not subscribed to the API, even though we were. Furthermore, when working with the third party 
 authentication, we could get the authentication to work but then the API would stop working, or vice versa. Given the time 
-limitations and some of the setbacks we faced we tried our best to make our project what we envisioned it to be.
+limitations, the setbacks we faced, and our prior coeding knowledge, we tried our best to make our project what we envisioned it to be.
 
 Link to YouTube video of our prototype demonstration using the first API:
 https://youtu.be/BIeGrHCMNTA
